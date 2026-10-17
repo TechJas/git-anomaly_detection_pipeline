@@ -4,3 +4,6 @@ __pycache__/
 .vscode/
 .streamlit/secrets.toml
 .ipynb_checkpoints/
+data/raw/
+data/processed/forecast_eval.csv
+data/processed/forecast_predictions.csv
