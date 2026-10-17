@@ -4,7 +4,7 @@ An explainable research prototype that monitors individual astronaut biomarker c
 against their own preflight baselines, and tests whether short-term biomarker values can
 be forecast from history.
 
-**Live demo:** _https://<your-app>.streamlit.app_ ← replace once deployed
+**Live demo:** (https://techjas-git-anomaly-detection-pipeline-app-a5atpx.streamlit.app/)
 
 > ⚠️ Research prototype. This tool does not diagnose disease and does not predict clinical
 > deterioration. It is a data-science portfolio project, not a medical device.
